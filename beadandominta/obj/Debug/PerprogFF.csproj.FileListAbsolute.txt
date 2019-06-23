@@ -1,0 +1,12 @@
+C:\Users\Molnár Attila\source\repos\Perprog_ECJU2I\beadandominta\bin\Debug\beadandominta.exe.config
+C:\Users\Molnár Attila\source\repos\Perprog_ECJU2I\beadandominta\bin\Debug\beadandominta.exe
+C:\Users\Molnár Attila\source\repos\Perprog_ECJU2I\beadandominta\bin\Debug\beadandominta.pdb
+C:\Users\Molnár Attila\source\repos\Perprog_ECJU2I\beadandominta\bin\Debug\EntityFramework.dll
+C:\Users\Molnár Attila\source\repos\Perprog_ECJU2I\beadandominta\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Molnár Attila\source\repos\Perprog_ECJU2I\beadandominta\bin\Debug\EntityFramework.xml
+C:\Users\Molnár Attila\source\repos\Perprog_ECJU2I\beadandominta\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Molnár Attila\source\repos\Perprog_ECJU2I\beadandominta\obj\Debug\PerprogFF.csprojAssemblyReference.cache
+C:\Users\Molnár Attila\source\repos\Perprog_ECJU2I\beadandominta\obj\Debug\PerprogFF.csproj.CoreCompileInputs.cache
+C:\Users\Molnár Attila\source\repos\Perprog_ECJU2I\beadandominta\obj\Debug\PerprogFF.csproj.CopyComplete
+C:\Users\Molnár Attila\source\repos\Perprog_ECJU2I\beadandominta\obj\Debug\beadandominta.exe
+C:\Users\Molnár Attila\source\repos\Perprog_ECJU2I\beadandominta\obj\Debug\beadandominta.pdb
